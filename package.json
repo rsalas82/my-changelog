@@ -1,5 +1,5 @@
 {
-  "name": "cathedral-changelog",
+  "name": "my-changelog",
   "version": "1.0.0",
   "description": "Node app to generate a clean changelog using conventional commits and keep a changelog 'standards'.",
   "type": "module",
